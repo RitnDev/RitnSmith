@@ -1,0 +1,111 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.8.3
+Date: 04.01.2023
+  Changes:
+    - Compatibilité avec RitnLib 0.7.3
+---------------------------------------------------------------------------------------------------
+Version: 0.8.2
+Date: 01.01.2023
+  Changes:
+    - Changement dans les item-subgroup.
+---------------------------------------------------------------------------------------------------
+Version: 0.8.1
+Date: 28.12.2022
+  Fixes:
+    - Fix : RitnProtoRecipe:changePrototype(subgroup, value) -> RitnProtoRecipe:changeSubgroup(value)
+  Changes:
+    - Renommage prototype : recipe-ritn-belt-part -> ritn-belt-part
+    - Renommage prototype : recipe-ritn-chassis-lamp -> ritn-chassis-lamp
+    - Renommage prototype : recipe-ritn-forge -> ritn-forge
+    - Renommage prototype : recipe-ritn-inserter-part -> ritn-inserter-part
+    - Renommage prototype : recipe-ritn-mining-drill-part -> ritn-mining-drill-part
+    - Change item-subgroup des blueprints (tool).
+    - Changement de la couleur de l'item-group.
+---------------------------------------------------------------------------------------------------
+Version: 0.8.0
+Date: 16.12.2022
+  Changes:
+    - Compatibilité avec RitnLib 0.7
+---------------------------------------------------------------------------------------------------
+Version: 0.7.2
+Date: 03.03.2022
+  Changes:
+    - Changement sur la quantité de fer pour une foreuse électrique (3 -> 2).
+---------------------------------------------------------------------------------------------------
+Version: 0.7.1
+Date: 03.03.2022
+  Changes:
+    - Changement de couleur des images des items-group.
+---------------------------------------------------------------------------------------------------
+Version: 0.7.0
+Date: 28.12.2021
+  Changes:
+    - Compatibilité avec RitnLib 0.6
+    - Compatibilité avec les RitnMods en 0.7
+---------------------------------------------------------------------------------------------------
+Version: 0.5.2
+Date: 28.12.2021
+  Changes:
+    - changement de la recette des bras robotisés.
+---------------------------------------------------------------------------------------------------
+Version: 0.5.1
+Date: 22.12.2021
+  Notes:
+    - Compatibilité avec RitnLib 0.5.5
+---------------------------------------------------------------------------------------------------
+Version: 0.5.0
+Date: 12.11.2021
+  Notes:
+    - Compatibilité avec RitnLib 0.5.
+---------------------------------------------------------------------------------------------------
+Version: 0.3.0
+Date: 22.02.2021
+  Notes:
+    - Mod stable.
+  Changes:
+    - Mise à jour de control.lua
+---------------------------------------------------------------------------------------------------
+Version: 0.2.3
+Date: 23.01.2021
+  Notes:
+    - Compatibilité à la version 1.1 du jeu.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: 24.11.2020
+  Changes:
+    - Modification de la recette des convoyeurs rapide et express.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.1
+Date: 11.11.2020
+  Changes:
+    - Compatibilité avec RitnLib 0.3.
+---------------------------------------------------------------------------------------------------
+Version: 0.2.0
+Date: 15.08.2020
+  Notes:
+    - Passage en 1.0.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.12
+Date: 14.07.2020
+  Adds:
+    - Ajout de la compatibilité avec les mods : DeadlockLargerLamp et SantasNixieTubeDisplay.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.11
+Date: 18.06.2020
+  Changes:
+    - Mise à jour des icônes.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.10
+Date: 27.04.2020
+  Fixes:
+    - Fix Foreuse électrique lente avec RitnGlass et RitnElectronic.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.9
+Date: 27.04.2020
+  Fixes:
+    - Fix des noms dans le dossier locale.
+---------------------------------------------------------------------------------------------------
+Version: 0.1.9
+Date: 27.04.2020
+  Changes:
+    - Passage en version 0.18 du jeu.
